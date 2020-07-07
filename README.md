@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+I’m Beginner coder.
+
+### I’m currently learning 🌱
+
+- JavaScript
+- TypeScript
+- React
+- Vue.js
+
+### How to reach me 📫
+
+- Discord: InkoHX#7777
+- [Twitter](https://twitter.com/InkoHX)
+- [Qiita](https://qiita.com/InkoHX)
+
 <!--
 **InkoHX/InkoHX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
