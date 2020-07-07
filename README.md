@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Beginner coder.
+I’m beginner coder.
 
 ### I’m currently learning 🌱
 
