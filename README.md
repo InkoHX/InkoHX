@@ -2,6 +2,8 @@
 
 I’m beginner coder.
 
+- [My Blog](https://inkohx.dev)
+
 ### I’m currently learning 🌱
 
 - JavaScript
