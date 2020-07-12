@@ -3,6 +3,8 @@
 I’m beginner coder.
 
 - [My Blog](https://inkohx.dev)
+- [Qiita](https://qiita.com/InkoHX)
+- [Docker Hub](https://hub.docker.com/u/inkohx)
 
 ### I’m currently learning 🌱
 
