@@ -1,6 +1,6 @@
 <div align="center">
 
-![InkoHX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=InkoHX&hide_title=true&line_height=45)
+![InkoHX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=InkoHX&hide_title=true&line_height=45&show_icons=true)
 ![InkoHX's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=InkoHX)
 
 </div>
