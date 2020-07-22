@@ -1,13 +1,9 @@
 <div align="center">
 
-![GitHub Followers](https://img.shields.io/github/followers/InkoHX?style=social)
-[![Twitter Followers](https://img.shields.io/twitter/follow/InkoHX?label=Followers&style=social)](https://twitter.com/InkoHX)
-
-</div>
-
 ![InkoHX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=InkoHX&hide_title=true&line_height=45)
 ![InkoHX's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=InkoHX)
 
+</div>
 
 ## I’m currently learning 🌱
 
