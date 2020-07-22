@@ -1,10 +1,15 @@
+<div align="center">
+
 ### Hi there 👋
 
-I’m beginner coder.
+![GitHub Followers](https://img.shields.io/github/followers/InkoHX?style=social)
+[![Twitter Followers](https://img.shields.io/twitter/follow/InkoHX?label=Followers&style=social)](https://twitter.com/InkoHX)
 
-- [My Blog](https://inkohx.dev)
-- [Qiita](https://qiita.com/InkoHX)
-- [Docker Hub](https://hub.docker.com/u/inkohx)
+</div>
+
+![InkoHX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=InkoHX&hide_title=true&line_height=45)
+![InkoHX's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=InkoHX)
+
 
 ### I’m currently learning 🌱
 
@@ -12,11 +17,6 @@ I’m beginner coder.
 - TypeScript
 - React
 - Vue.js
-
-### How to reach me 📫
-
-- Discord: InkoHX#7777
-- [Twitter](https://twitter.com/InkoHX)
 
 <!--
 **InkoHX/InkoHX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
