@@ -1,7 +1,5 @@
 <div align="center">
 
-## Hi there 👋
-
 ![GitHub Followers](https://img.shields.io/github/followers/InkoHX?style=social)
 [![Twitter Followers](https://img.shields.io/twitter/follow/InkoHX?label=Followers&style=social)](https://twitter.com/InkoHX)
 
