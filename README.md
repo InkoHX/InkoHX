@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there 👋
+## Hi there 👋
 
 ![GitHub Followers](https://img.shields.io/github/followers/InkoHX?style=social)
 [![Twitter Followers](https://img.shields.io/twitter/follow/InkoHX?label=Followers&style=social)](https://twitter.com/InkoHX)
@@ -11,7 +11,7 @@
 ![InkoHX's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=InkoHX)
 
 
-### I’m currently learning 🌱
+## I’m currently learning 🌱
 
 - JavaScript
 - TypeScript
