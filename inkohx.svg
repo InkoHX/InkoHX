@@ -42,6 +42,7 @@
       <style>
         .container {
           position: relative;
+          font-family: 'Open Sans', sans-serif;
           height: 500px;
           width: 100%;
         }
@@ -87,13 +88,20 @@
         h1 {
           transform: translate3d(-50%, -50%, 0);
           animation: TextFlash 3s linear 2s forwards;
+          font-weight: bold;
         }
 
         p {
-          transform: translate3d(-50%, 50%, 0);
-          font-weight: bold;
+          transform: translate3d(-50%, 1.5em, 0);
         }
       </style>
     </div>
   </foreignObject>
+  <defs>
+    <style>
+      <![CDATA[
+        @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+      ]]>
+    </style>
+  </defs>
 </svg>
