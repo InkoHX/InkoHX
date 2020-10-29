@@ -1,6 +1,6 @@
 <div align="center">
 
-![InkoHX](https://raw.githubusercontent.com/InkoHX/InkoHX/master/inkohx.svg)
+<img src="https://raw.githubusercontent.com/InkoHX/InkoHX/master/inkohx.svg" />
 
 ![InkoHX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=InkoHX&hide_title=true&line_height=40&show_icons=true)
 ![InkoHX's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=InkoHX&hide_title=true)
