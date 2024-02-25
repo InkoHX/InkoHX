@@ -8,7 +8,6 @@ Programmer since 2016, interested in Web Technologies
 
 - [Discord.js Japan User Group](https://discordjs-japan.org)
 - [The NEXTERIAS](https://nexterias.dev)
-- [Vector Network Project](https://github.com/VectorNetworkProject) (**Inactive**)
 
 ## Contact
 
