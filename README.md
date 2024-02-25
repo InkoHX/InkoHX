@@ -2,7 +2,7 @@
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/InkoHX)
 
-Interested in developing web applications using JavaScript runtimes like Node.js, Bun, and Deno, and frameworks like Next.js, Remix and Astro, as well as serverless applications using platforms like Cloudflare Workers.
+Programmer since 2016, interested in developing web and serverless applications using JavaScript runtime Node.js, Bun and Deno.
 
 ### Organizations
 
