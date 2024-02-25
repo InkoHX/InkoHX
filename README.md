@@ -2,7 +2,7 @@
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/InkoHX)
 
-Programmer since 2016, interested in developing web and serverless applications using JavaScript runtime Node.js, Bun and Deno.
+Programmer since 2016, interested in Web Technologies
 
 ### Organizations
 
