@@ -12,7 +12,7 @@ Programmer since 2016, interested in Web Technologies
 
 ## Contact
 
-To contact me personally, please use the following methods
+To contact me personally, please use the following:
 
 > [!important]
 > Please contact [`me@inkohx.dev`](mailto:me@inkohx.dev) for security issues.
