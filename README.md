@@ -8,7 +8,7 @@ Interested in developing web applications using JavaScript runtimes like Node.js
 
 - [Discord.js Japan User Group](https://discordjs-japan.org)
 - [The NEXTERIAS](https://nexterias.dev)
-- [Vector Network Project](https://github.com/VectorNetworkProject) **Inactive**
+- [Vector Network Project](https://github.com/VectorNetworkProject) (**Inactive**)
 
 ## Contact
 
