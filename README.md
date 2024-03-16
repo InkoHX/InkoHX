@@ -2,7 +2,7 @@
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/InkoHX)
 
-Programmer since 2016, interested in Web Technologies
+Programmer since 2017, interested in Web Technologies
 
 ### Organizations
 
